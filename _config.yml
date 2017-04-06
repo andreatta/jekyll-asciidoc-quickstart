@@ -5,7 +5,7 @@ exclude:
   - README.adoc
   - Gemfile
   - Gemfile.lock
-  - Rakefile
+    #- Rakefile
 asciidoc: {}
 asciidoctor:
   base_dir: :docdir
